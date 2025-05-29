@@ -43,7 +43,7 @@ const Index = () => {
             className="block group"
           >
             <h2 className="text-xl md:text-2xl font-light text-gray-800 mb-3 group-hover:text-orange-500 transition-colors duration-300">
-              fix vibed codes
+              fix vibe codes
             </h2>
             <p className="text-gray-600 leading-relaxed text-sm md:text-base mb-4">
               professional code review and optimization service to enhance your
