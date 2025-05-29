@@ -15,7 +15,7 @@ const Index = () => {
         {/* Logo */}
         <div className="mb-12 flex justify-center">
           <img
-            src="src/assets/logo.png"
+            src="/logo.png"
             alt="japalabs logo"
             className="h-16 md:h-20 object-contain"
           />
