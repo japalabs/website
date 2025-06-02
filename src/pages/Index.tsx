@@ -46,8 +46,8 @@ const Index = () => {
               fix vibe codes
             </h2>
             <p className="text-gray-600 leading-relaxed text-sm md:text-base mb-4">
-              professional code review and optimization service to enhance your
-              codebase quality and performance.
+              professional lovable.dev partner for code auditing, security, and
+              backend development.
             </p>
             <div className="inline-flex items-center text-orange-500 group-hover:text-orange-600 transition-colors duration-300">
               <span className="text-sm font-medium">learn more</span>
