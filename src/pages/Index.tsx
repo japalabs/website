@@ -37,7 +37,7 @@ const Index = () => {
         {/* Fix Vibed Codes Service */}
         <div className="bg-white/70 backdrop-blur-sm rounded-lg p-6 md:p-8 shadow-lg border border-gray-200/50 hover:shadow-xl transition-all duration-300 max-w-lg mx-auto">
           <a
-            href="https://fixvibedcodes.com"
+            href="https://fixvibecodes.com"
             target="_blank"
             rel="noopener noreferrer"
             className="block group"
